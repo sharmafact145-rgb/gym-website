@@ -89,7 +89,15 @@ footer {
   </div>
 </div>
 
-<div class="section">
+<div class="card">
+  <h3>7 Day Fat Loss Diet Plan – ₹199</h3>
+  <p>Get complete PDF diet chart for fast results.</p>
+  <a href="https://wa.me/91XXXXXXXXXX?text=Hi%20sir,%20I%20want%20to%20buy%207%20Day%20Fat%20Loss%20Diet%20Plan" 
+     target="_blank" 
+     style="color:#22c55e; font-weight:bold;">
+    👉 Order on WhatsApp
+  </a>
+</div>
   <h2>🥗 Diet Plans</h2>
   <div class="cards">
     <div class="card">Weight Gain Diet</div>
@@ -120,4 +128,5 @@ footer {
 <a class="whatsapp" href="https://wa.me/918580552839">Chat on WhatsApp</a>
 
 </body>
+
 </html>
